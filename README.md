@@ -27,6 +27,8 @@ The GPS/RFID device is a multi-functional embedded system designed for transport
 | LEDs              | Indicators for GPS, RFID, and power      | GPIO 2, 12, 13                            |
 | Buzzer            | Alerts for specific events               | GPIO 14                                   |
 
+![Figure 1: Connection Diagram](connection_diagram.png)
+
 ## 4. Software Components
 
 ### 1. Libraries Used
